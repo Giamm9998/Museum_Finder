@@ -21,3 +21,16 @@ The application also includes an error reporting mechanism; users can make repor
 
 https://user-images.githubusercontent.com/22869166/203126882-13af9aad-57c9-4fb1-bfea-db7edf972602.mov
 
+## Design and implementation
+Besides the functionalities the software provides, the aim of the project is to show that we are able to design and structure a JavaSE application.
+
+In order to deliver the final project, various steps had to be completed:
+* **requirements analysis**, with the definition of _functional_ and _structural_ requirements;
+* **design**, with _class_ and _model_ diagrams, _use case_ tamplates and diagrams;
+* **implementation**, using appropriate [ **design patterns**](#design-patterns);
+* **unit testing**, using JUnit.
+
+More information about this process can be found in the [project document](museumfinder.pdf) (in italian).
+
+### Design pattern
+

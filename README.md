@@ -2,7 +2,7 @@
 Developed during the Software Engineering course, Museum Finder is a Java desktop application for the **management and retrieval of information relating to a large number of Italian museums**.
 
 ## Prerequisites
-Museum Finder depens on a relational database that contains information on the various museums (~5000), extracted from Wikipedia through a **web scraping** process.
+Museum Finder depens on a relational database that contains information on the various museums (~7500), extracted from Wikipedia through a **web scraping** process.
 
 ## Users and functionalities
 All users who want to use the services offered by Museum Finder must log in with their credentials.
